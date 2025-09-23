@@ -20,11 +20,12 @@ Data Cleaning & Preprocessing: Handling missing values, duplicates, and inconsis
 Stock management recommendations for high-demand products. Customer loyalty strategies for top segments.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-📂 Datasets
+
+## 📂 Datasets
+
 This project uses multiple datasets to analyze retail customer transactions and build the dashboard. You can access them in the repository or via the file below:
 
 1.order_products_prior.csv – https://drive.google.com/file/d/1j6HodLJPPB8bkUh8b9KihKBNGsKa1mXh/view?usp=sharing
-
 2.orders.csv – https://drive.google.com/file/d/17n_c6GVoPmXK4PB5FTSz_7j3lwhpAU6_/view?usp=sharing
 
 
