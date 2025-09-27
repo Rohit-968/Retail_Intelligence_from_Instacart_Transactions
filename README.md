@@ -1,23 +1,35 @@
 # Retail-Sales-Analysis-Using-Instacart-Datasets
 
 This project focuses on analyzing retail customer transaction data to generate actionable business insights and improve decision-making.
-It is structured as a full pipeline, combining data processing, visualization, and interpretation.
+It is structured as a full pipeline, combining data processing, visualization and interpretation.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Objective:
-Analyze historical retail transaction data to identify customer behavior patterns. Generate insights to assist business strategies, marketing campaigns, and inventory management. Visualize key metrics through an interactive dashboard.
+
+1)Analyze historical retail transaction data to identify customer behavior patterns.
+
+2)Generate insights to support business strategies, marketing campaigns, and inventory management.
+
+3)Visualize key metrics through an interactive dashboard.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Key Components:
-Data Cleaning & Preprocessing: Handling missing values, duplicates, and inconsistent entries. Exploratory Data Analysis (EDA): Descriptive statistics of sales, customers, and products. Trend analysis over time (monthly/weekly sales). Data Visualization:
+
+1)Data Cleaning & Preprocessing – Handle missing values, duplicates, and inconsistent entries.
+
+2)Exploratory Data Analysis (EDA) – Descriptive statistics of sales, customers, and products. Trend analysis over time (monthly/weekly sales).
+
+3)Data Visualization – Interactive dashboards and charts to highlight trends and patterns
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Insights & Recommendations:
 
-Stock management recommendations for high-demand products. Customer loyalty strategies for top segments.
+Stock management suggestions for high-demand products.
+
+Customer loyalty strategies for top segments.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
