@@ -5,7 +5,7 @@ It is structured as a full pipeline, combining data processing, visualization an
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Objective:
+## 🎯Objective:
 
 1)Analyze historical retail transaction data to identify customer behavior patterns.
 
@@ -15,7 +15,7 @@ It is structured as a full pipeline, combining data processing, visualization an
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Key Components:
+## 🛠Key Components:
 
 1)Data Cleaning & Preprocessing – Handle missing values, duplicates, and inconsistent entries.
 
@@ -25,7 +25,7 @@ It is structured as a full pipeline, combining data processing, visualization an
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Insights & Recommendations:
+## 💡Insights & Recommendations:
 
 Stock management suggestions for high-demand products.
 
@@ -50,7 +50,7 @@ End-to-end data science pipeline from raw data to actionable insights.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Sample Outputs
+## 📈Sample Outputs
 
 <img width="712" height="566" alt="image" src="https://github.com/user-attachments/assets/4c639458-f04e-47f4-9bdc-b556dc349b79" />
 
